@@ -1,0 +1,8 @@
+langchain-openai
+langchain
+langchain-core
+langgraph
+pytesseract
+pdf2image
+ipython
+streamlit 
